@@ -10,7 +10,7 @@
 
 - **Đặc điểm chung**: Các thành viên trong DAO có thể dễ dàng tiếp cận, kiểm chứng các đề xuất, hành động của tổ chức, tham gia vào các quyết định của DAO.
 
-## Bổi cảnh:
+## 2. Bổi cảnh:
 
 Có xu hướng phát triển cùng blockchain với tính decentralizied. Ngày càng nhận được nhiều sự chú ý bởi nhiều yếu tố:
 
@@ -27,7 +27,7 @@ Có xu hướng phát triển cùng blockchain với tính decentralizied. Ngày
 
   - **Áp dụng Game Theory**: Người tham gia nắm giữ một phần của DAO -> có quyền lựa chọn những đề xuất phát triển DAO, đề xuất được cân nhắc trên lợi ích số đông.
 
-## Hạn chế của DAO:
+## 3. Hạn chế của DAO:
 
 - **Tính bảo mật**: [**Smart Contract**]() tính bảo mật chưa chắc chắn.
 
@@ -37,7 +37,7 @@ Có xu hướng phát triển cùng blockchain với tính decentralizied. Ngày
 - **Privacy**: Mọi thứ đều minh bạch trên on-chain -> kế hoạch phát triển cũng sẽ bị công khai.
 - **Centralized entity**: Tổ chức có sức mạnh voting cao hơn các thành viên -> Centralized ngay trong voting.
 
-## Các loại hình DAO:
+## 4. Các loại hình DAO:
 
 - ### Token-Based DAO:
 
@@ -55,7 +55,7 @@ Có xu hướng phát triển cùng blockchain với tính decentralizied. Ngày
 
   - Shared-based DAO thường **permissioned** và yêu cầu người tham gia **đáp ứng một điều kiện** nào đó --> _Dễ quản lý và nguồn lực được tập trung nhưng khó mở rộng_.
 
-## Các dự án nổi bật hiện tại:
+## 5. Các dự án nổi bật hiện tại:
 
 - **Token-based DAO**:
 
