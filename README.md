@@ -8,7 +8,7 @@ However, these are only a few of the factors that contribute to the blockchain's
 Blockchain's most common applications include:
 
 - **Cryptocurrency**.
-- **Bank**: Used to handle transactions in [Fiat]() currencies such as USD and EUR.-> Faster money transfers and transaction verification via bank.
+- **Bank**: Used to handle transactions in [Fiat](./Theory/Fiat.md) currencies such as USD and EUR.-> Faster money transfers and transaction verification via bank.
 - **NFT - Non-fungible token**.
 - **Smart Contract**
 - **Supply chain monitoring**: It'll be easy to go back and check the supply chain if shipping data is stored on the blockchain.
@@ -22,6 +22,7 @@ Blockchain's most common applications include:
 - [Blockchain?](./Theory/Blockchain.md)
 - [Proof of work - PoW](./Theory/PoW.md)
 - [Proof of stake - PoS](./Theory/PoS.md)
+- [DAO - Decentralized Autonomous Organization](./Theory/DAO.md)
 
 ---
 
